@@ -1,0 +1,204 @@
+Winter 2018
+Open
+CIS*2750*0101 (8731) Software System Dvlmt & Intgrn 
+Guelph
+LEC Mon, Wed
+05:30PM - 06:50PM
+ROZH, Room 102
+LAB Tues
+09:30AM - 11:20AM
+THRN, Room 2420
+D. Nikitenko
+4 / 15
+ 
+Winter 2018
+Closed
+CIS*2750*0102 (8732) Software System Dvlmt & Intgrn 
+Guelph
+LEC Mon, Wed
+05:30PM - 06:50PM
+ROZH, Room 102
+LAB Thur
+07:00PM - 08:50PM
+THRN, Room 2420
+D. Nikitenko
+0 / 15
+ 
+Winter 2018
+Closed
+CIS*2750*0103 (8733) Software System Dvlmt & Intgrn 
+Guelph
+LEC Mon, Wed
+05:30PM - 06:50PM
+ROZH, Room 102
+LAB Wed
+07:00PM - 08:50PM
+THRN, Room 2420
+D. Nikitenko
+0 / 15
+ 
+Winter 2018
+Closed
+CIS*2750*0204 (8734) Software System Dvlmt & Intgrn 
+Guelph
+LEC Tues, Thur
+10:00AM - 11:20AM
+MCKN, Room 120
+LAB Tues
+02:30PM - 04:20PM
+THRN, Room 2420
+D. Nikitenko
+0 / 15
+ 
+Winter 2018
+Closed
+CIS*2750*0205 (8735) Software System Dvlmt & Intgrn 
+Guelph
+LEC Tues, Thur
+10:00AM - 11:20AM
+MCKN, Room 120
+LAB Thur
+12:30PM - 02:20PM
+THRN, Room 2420
+D. Nikitenko
+0 / 15
+ 
+Winter 2018
+Open
+CIS*2750*0206 (8736) Software System Dvlmt & Intgrn 
+Guelph
+LEC Tues, Thur
+10:00AM - 11:20AM
+MCKN, Room 120
+LAB Tues
+07:00PM - 08:50PM
+THRN, Room 2420
+D. Nikitenko
+4 / 15
+ 
+Winter 2018
+Closed
+CIS*3110*0101 (8737) Operating Systems 
+Guelph
+LEC Mon, Wed, Fri
+11:30AM - 12:20PM
+MACN, Room 105
+LAB Wed
+01:30PM - 02:20PM
+MCKN, Room 235
+X. Li
+0 / 20
+ 
+Winter 2018
+Closed
+CIS*3110*0102 (8738) Operating Systems 
+Guelph
+LEC Mon, Wed, Fri
+11:30AM - 12:20PM
+MACN, Room 105
+LAB Thur
+10:30AM - 11:20AM
+MCKN, Room 238
+X. Li
+0 / 20
+ 
+Winter 2018
+Open
+CIS*3110*0103 (8739) Operating Systems 
+Guelph
+LEC Mon, Wed, Fri
+11:30AM - 12:20PM
+MACN, Room 105
+LAB Thur
+08:30AM - 09:20AM
+MCKN, Room 238
+X. Li
+16 / 20
+ 
+Winter 2018
+Closed
+CIS*3110*0104 (8740) Operating Systems 
+Guelph
+LEC Mon, Wed, Fri
+11:30AM - 12:20PM
+MACN, Room 105
+LAB Thur
+04:30PM - 05:20PM
+MCKN, Room 238
+X. Li
+0 / 20
+ 
+Winter 2018
+Closed
+CIS*3110*0105 (8741) Operating Systems 
+Guelph
+LEC Mon, Wed, Fri
+11:30AM - 12:20PM
+MACN, Room 105
+LAB Fri
+01:30PM - 02:20PM
+MCKN, Room 238
+X. Li
+0 / 20
+ 
+Winter 2018
+Closed
+CIS*3490*0101 (8745) Analysis & Des. of Comp. Algo. 
+Guelph
+LEC Mon, Wed, Fri
+02:30PM - 03:20PM
+RICH, Room 2520
+LAB Mon
+03:30PM - 05:20PM
+MCKN, Room 232
+F. Wang
+0 / 30
+ 
+Winter 2018
+Open
+CIS*3490*0102 (8746) Analysis & Des. of Comp. Algo. 
+Guelph
+LEC Mon, Wed, Fri
+02:30PM - 03:20PM
+RICH, Room 2520
+LAB Tues
+02:30PM - 04:20PM
+MCKN, Room 228
+F. Wang
+6 / 30
+ 
+Winter 2018
+Open
+CIS*3490*0103 (8747) Analysis & Des. of Comp. Algo. 
+Guelph
+LEC Mon, Wed, Fri
+02:30PM - 03:20PM
+RICH, Room 2520
+LAB Thur
+02:30PM - 04:20PM
+MCKN, Room 231
+F. Wang
+13 / 30
+ 
+Winter 2018
+Open
+CIS*3490*0104 (8748) Analysis & Des. of Comp. Algo. 
+Guelph
+LEC Mon, Wed, Fri
+02:30PM - 03:20PM
+RICH, Room 2520
+LAB Thur
+02:30PM - 04:20PM
+ROZH, Room 108
+F. Wang
+21 / 30
+ 
+Winter 2018
+Open
+STAT*2040*02 (0728) Statistics I 
+Guelph
+LEC Mon, Wed, Fri
+12:30PM - 01:20PM
+WMEM, Room 103
+G. Umphrey
+73 / 250

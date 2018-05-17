@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+CourseScheduler/bin/*
+CourseScheduler/obj/*
+Logic/bin/*
+Logic/obj/*
+.vs/*
